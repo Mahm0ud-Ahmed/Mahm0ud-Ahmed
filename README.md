@@ -1,16 +1,20 @@
 <h1 align="center">Hi 👋, I'm Mahmoud</h1>
 <h3 align="center">A passionate mobile developer from Egypt</h3>
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="400" /></p>
+
 - 🔭 I’m currently working in **Cairo Photography Club (CPC)**
 
--  🌱 I’m currently Working on Application available on platform <a href="https://4exper.com/" target="blank">4Exper</a>
+-  🌱 I’m currently Working on Application available on platform <a href="https://4exper.com/" target="blank">**4Exper**</a>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mahm0ud-Ahmed?tab=repositories](https://github.com/Mahm0ud-Ahmed?tab=repositories)
+- 🤝 I’m available for freelancing.
+
+- 👨‍💻 All of my projects are available <a href="https://github.com/Mahm0ud-Ahmed?tab=repositories" target="blank">**here**</a>
 
 - 📫 How to reach me **developermahmoud91@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<p align="center">
 <a href="https://linkedin.com/in/mahmoud-ahmed-69bb051a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-ahmed-69bb051a2" height="30" width="40" /></a>
 <a href="https://fb.com/dev.mahmoudahmed91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dev.mahmoudahmed91" height="30" width="40" /></a>
 </p>
