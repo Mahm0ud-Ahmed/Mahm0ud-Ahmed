@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahmoud</h1>
 <h3 align="center">A passionate mobile developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahm0ud-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="mahm0ud-ahmed" /> </p>
-
-<p align="left"> <a href="https://github.com/Mahm0ud-Ahmed"><img src="https://github-profile-trophy.vercel.app/?username=mahm0ud-ahmed" alt="mahm0ud-ahmed" /></a> </p>
-
 - 🔭 I’m currently working in **Cairo Photography Club (CPC)**
+
+-  🌱 I’m currently Working on Application available on platform <a href="https://4exper.com/" target="blank">4Exper</a>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mahm0ud-Ahmed?tab=repositories](https://github.com/Mahm0ud-Ahmed?tab=repositories)
 
