@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahm0ud-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="mahm0ud-ahmed" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahm0ud-ahmed" alt="mahm0ud-ahmed" /></a> </p>
+<p align="left"> <a href="https://github.com/Mahm0ud-Ahmed"><img src="https://github-profile-trophy.vercel.app/?username=mahm0ud-ahmed" alt="mahm0ud-ahmed" /></a> </p>
 
 - 🔭 I’m currently working in **Cairo Photography Club (CPC)**
 
