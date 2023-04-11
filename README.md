@@ -3,7 +3,7 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="380" /></p>
 
-- 🔭 I’m currently working in **Cairo Photography Club (CPC)**
+- 🔭 I’m currently working in **Injaz agency**
 
 -  🌱 I’m currently Working on Application available on platform <a href="https://4exper.com/" target="blank">**4Exper**</a>
 
