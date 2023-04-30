@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in **Injaz agency**
 
--  🌱 I’m currently Working on Application available on platform <a href="https://4exper.com/" target="blank">**4Exper**</a>
+-  🌱 I am currently working on a furniture shipping application that works on Android and iOS.
 
 - 🤝 I’m available for freelancing.
 
