@@ -11,6 +11,8 @@
 
 - 👨‍💻 All of my projects are available <a href="https://github.com/Mahm0ud-Ahmed?tab=repositories" target="blank">**here**</a>
 
+- 💻 You can upload my resume via <a href="[https://github.com/Mahm0ud-Ahmed?tab=repositories](https://drive.google.com/file/d/15KpJAvTVWxv9SdzNtZYBX1k_wSEK9mzb/view?usp=share_link)" target="blank">**Google Drive**</a>
+
 - 📫 How to reach me **developermahmoud91@gmail.com**
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
