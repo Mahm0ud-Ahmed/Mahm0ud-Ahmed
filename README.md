@@ -17,8 +17,8 @@
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
-<a href="https://linkedin.com/in/mahmoud-ahmed-69bb051a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-ahmed-69bb051a2" height="30" width="40" /></a>
-<a href="https://fb.com/dev.mahmoudahmed91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dev.mahmoudahmed91" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mahmoud-ahmed-69bb051a2" target="blank"><img align="center" src="https://github.com/Mahm0ud-Ahmed/Mahm0ud-Ahmed/assets/58610163/7cd7c289-64a7-42c1-8721-da8e197e82fa" alt="mahmoud-ahmed-69bb051a2" height="48" width="48" /></a>
+<a href="https://fb.com/dev.mahmoudahmed91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dev.mahmoudahmed91" height="36" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
